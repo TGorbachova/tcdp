@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<listOfToys>
+    <toy name = "ballXml">
+        <size>Big</size>
+        <price>150</price>
+        <color>Red</color>
+        <age>5</age>
+        <material>rezin</material>
+    </toy>
+    <toy name = "ballXml">
+        <size>Big</size>
+        <price>150</price>
+        <color>Red</color>
+        <age>7</age>
+        <material>rezin</material>
+    </toy>
+    <toy name = "ballXml">
+        <size>Big</size>
+        <price>150</price>
+        <color>Red</color>
+        <age>11</age>
+        <material>rezin</material>
+    </toy>
+    <toy name = "basket ball">
+        <size>Medium</size>
+        <price>250</price>
+        <color>Orange</color>
+        <age>12</age>
+        <material>rezin</material>
+    </toy>
+	<toy name = "basket ball">
+        <size>Medium</size>
+        <price>250</price>
+        <color>Orange</color>
+        <age>8</age>
+        <material>rezin</material>
+    </toy>
+	<toy name = "basket ball">
+        <size>Medium</size>
+        <price>250</price>
+        <color>Orange</color>
+        <age>4</age>
+        <material>rezin</material>
+    </toy>
+    <toy name = "pingpong ball">
+        <size>Small</size>
+        <price>120</price>
+        <color>White</color>
+        <age>10</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "pingpong ball">
+        <size>Small</size>
+        <price>120</price>
+        <color>White</color>
+        <age>5</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "pingpong ball">
+        <size>Small</size>
+        <price>120</price>
+        <color>White</color>
+        <age>8</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "mersedes car">
+        <size>Small</size>
+        <price>500</price>
+        <color>White</color>
+        <age>10</age>
+        <material>metal</material>
+    </toy>
+	<toy name = "mersedes car">
+        <size>Small</size>
+        <price>500</price>
+        <color>White</color>
+        <age>8</age>
+        <material>metal</material>
+    </toy>
+	<toy name = "mersedes car">
+        <size>Small</size>
+        <price>500</price>
+        <color>White</color>
+        <age>4</age>
+        <material>metal</material>
+    </toy>
+    <toy name = "car">
+        <size>Big</size>
+        <price>320</price>
+        <color>Black</color>
+        <age>5</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "car">
+        <size>Big</size>
+        <price>320</price>
+        <color>Black</color>
+        <age>8</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "car">
+        <size>Big</size>
+        <price>320</price>
+        <color>Black</color>
+        <age>11</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "car porshe">
+        <size>Medium</size>
+        <price>400</price>
+        <color>Red</color>
+        <age>8</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "car porshe">
+        <size>Medium</size>
+        <price>400</price>
+        <color>Red</color>
+        <age>4</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "car porshe">
+        <size>Medium</size>
+        <price>400</price>
+        <color>Red</color>
+        <age>11</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "cube big">
+        <size>Big</size>
+        <price>50</price>
+        <color>White</color>
+        <age>3</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "cube big">
+        <size>Big</size>
+        <price>50</price>
+        <color>White</color>
+        <age>7</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "cube big">
+        <size>Big</size>
+        <price>50</price>
+        <color>White</color>
+        <age>11</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "cube small">
+        <size>Small</size>
+        <price>25</price>
+        <color>Green</color>
+        <age>3</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "cube small">
+        <size>Small</size>
+        <price>25</price>
+        <color>Green</color>
+        <age>6</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "cube small">
+        <size>Small</size>
+        <price>25</price>
+        <color>Green</color>
+        <age>11</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "cube medium">
+        <size>Medium</size>
+        <price>35</price>
+        <color>Red</color>
+        <age>5</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "cube medium">
+        <size>Medium</size>
+        <price>35</price>
+        <color>Red</color>
+        <age>7</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "cube medium">
+        <size>Medium</size>
+        <price>35</price>
+        <color>Red</color>
+        <age>12</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "baby doll">
+        <size>Big</size>
+        <price>350</price>
+        <color>White</color>
+        <age>3</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "baby doll">
+        <size>Big</size>
+        <price>350</price>
+        <color>White</color>
+        <age>7</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "baby doll">
+        <size>Big</size>
+        <price>350</price>
+        <color>White</color>
+        <age>12</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "barby doll">
+        <size>Medium</size>
+        <price>850</price>
+        <color>White</color>
+        <age>4</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "barby doll">
+        <size>Medium</size>
+        <price>850</price>
+        <color>White</color>
+        <age>7</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "barby doll">
+        <size>Medium</size>
+        <price>850</price>
+        <color>White</color>
+        <age>11</age>
+        <material>plastick</material>
+    </toy>
+    <toy name = "doll syster">
+        <size>Small</size>
+        <price>250</price>
+        <color>White</color>
+        <age>8</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "doll syster">
+        <size>Small</size>
+        <price>250</price>
+        <color>White</color>
+        <age>12</age>
+        <material>plastick</material>
+    </toy>
+	<toy name = "doll syster">
+        <size>Small</size>
+        <price>250</price>
+        <color>White</color>
+        <age>3</age>
+        <material>plastick</material>
+    </toy>
+</listOfToys>
